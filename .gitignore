@@ -1,0 +1,9 @@
+@'
+.ipynb_checkpoints/
+desktop.ini
+t.ipynb
+__pycache__/
+*.pyc
+.venv/
+venv/
+'@ | Set-Content .gitignore
